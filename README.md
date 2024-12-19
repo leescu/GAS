@@ -73,7 +73,7 @@ Installation via cloned repository:
 
 ```
 $ git clone https://github.com/leescu/GAS.git
-$ cd PD-HPL
+$ cd GAS
 ```
 
 
